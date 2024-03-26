@@ -1,0 +1,3 @@
+advent/dataset/__pycache__/*.pyc
+advent/model/__pycache__/*.pyc
+advent/utils/__pycache__/*.pyc
